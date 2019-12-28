@@ -1,0 +1,6 @@
+## Interface: 80200
+## Title: Klaz|cff1994ffMiniMap|r
+## Author: Klaz
+## Notes: Adjusts the appearance of the default Blizzard minimap.
+
+MiniMap.lua
