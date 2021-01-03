@@ -6,18 +6,18 @@ There are no in-game options.
 
 ## Features
 
-- Hide top border surrounding location text
-- Hides various buttons from the minimap frame:
+- Hide top border surrounding location text.
+- Hides various elements from the minimap frame:
   - Clock
-  - Tracking
-  - World Map
-  - Zoom
+  - Tracking button
+  - World Map button
+  - Zoom button
 - Darkens default border textures.
 - Allow mouse wheel scroll to zoom in and out of minimap location.
 - Enable mouse clicks to do various functions:
   - Left = ping location
-  - Right = drop down menu for tracking
-  - Middle = open calendar
+  - Right = drop down menu for tracking options
+  - Middle = open in-game calendar
 
 ## Installation
 
